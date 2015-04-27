@@ -57,6 +57,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Bones](http://themble.com/bones/)
 
 ### Ruby
+- [Lotus](http://lotusrb.org/)
 - [Rails](http://rubyonrails.org)
 - [Sinatra](http://www.sinatrarb.com/)
 
