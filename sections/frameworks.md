@@ -73,6 +73,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 ### Ruby
 - [Rails](http://rubyonrails.org)
 - [Sinatra](http://www.sinatrarb.com/)
+- [Lotus](http://lotusrb.org/)
 
 ## Mobile
 - [Flat UI Theme](https://github.com/ququplay/jquery-mobile-flat-ui-theme)
