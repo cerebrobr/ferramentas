@@ -33,6 +33,7 @@ Ferramentas para ajudar no seu Workflow.
 - [Rails Assets](https://rails-assets.org/)
 - [Rudix](http://rudix.org/)
 - [Volo](http://volojs.org/)
+- [Yarn](https://yarnpkg.com/)
 
 ## Version Manager
 - [NVM](https://github.com/creationix/nvm) - Node Version Manager

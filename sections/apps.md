@@ -13,11 +13,12 @@
 - [Less.app](http://incident57.com/less/) - Mac
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - Cross-platform
 - [Scout](http://mhs.github.com/scout-app/) - Cross-platform
-- [Screenflick](http://www.araelium.com/screenflick) 
+- [Screenflick](http://www.araelium.com/screenflick)
 - [Shuttle](http://fitztrev.github.io/shuttle/) - Mac
 - [SimpLESS](http://wearekiss.com/simpless) - Win/Mac
 - [Source Tree](http://www.sourcetreeapp.com/) - Mac
 - [Sublime Text](http://www.sublimetext.com/)  - Cross-platform
 - [Vim/Vi](http://www.vim.org)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [WinLESS](http://winless.org/) - Win
 - [WebStorm](https://www.jetbrains.com/webstorm/) - Cross-platform
