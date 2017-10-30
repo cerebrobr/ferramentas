@@ -47,6 +47,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Montage JS](http://montagejs.org/)
 - [No Backend](http://nobackend.org/)
 - [React](https://facebook.github.io/react/)
+- [Vue.js](https://vuejs.org/)
 
 ## Back-End
 

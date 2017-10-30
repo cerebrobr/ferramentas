@@ -63,12 +63,16 @@ Ferramentas para ajudar no seu Workflow.
 - [Dabblet](http://dabblet.com/)
 - [JS Fiddle](http://jsfiddle.net)
 - [JS Bin](http://jsbin.com)
+- [LiveGap](http://editor.livegap.com/)
+- [Liveweave](https://liveweave.com/)
 - [Paste Bin](http://pastebin.com)
 - [Plunker](http://plnkr.co)
 - [PHP Bin](http://phpbin.net/)
 - [Require Bin](http://requirebin.com/)
 - [Sass Meister](http://sassmeister.com/)
+- [Sencha Fiddle](https://fiddle.sencha.com)
 - [StackBlitz](https://stackblitz.com)
+- [Thimble](https://thimble.mozilla.org)
 
 ## Version Control
 - [Node GH](http://nodegh.io/)
