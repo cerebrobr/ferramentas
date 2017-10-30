@@ -36,4 +36,4 @@ Ferramentas para o seu projeto em produção.
 - [Flynn](https://flynn.io/)
 - [Heroku](https://www.heroku.com/)
 - [OpenShift](https://www.openshift.com/)
-- [Tsuru] (http://www.tsuru.io)
+- [Tsuru](https://www.tsuru.io)
