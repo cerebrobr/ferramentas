@@ -54,6 +54,7 @@ Ferramentas para ajudar no seu Workflow.
 - [Ionic Creator](http://ionicframework.com/creator/)
 - [JetStrap](http://jetstrap.com/)
 - [LayoutIt!](http://www.layoutit.com/build)
+- [Pingendo](https://pingendo.com/new)
 - [WebFlow](http://www.webflow.com/)
 
 ## Online Editors
@@ -66,6 +67,7 @@ Ferramentas para ajudar no seu Workflow.
 - [LiveGap](http://editor.livegap.com/)
 - [Liveweave](https://liveweave.com/)
 - [Paste Bin](http://pastebin.com)
+- [PlayCode](http://playcode.io/)
 - [Plunker](http://plnkr.co)
 - [PHP Bin](http://phpbin.net/)
 - [Require Bin](http://requirebin.com/)
